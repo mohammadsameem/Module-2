@@ -161,7 +161,7 @@ else:
     print("The given number {} is not a palindrome".format(num))
 ```
 ## Output
-![image](https://github.com/user-attachments/assets/406e9033-e5d5-4305-8a28-dc7ddc79226b)
+<img width="593" height="114" alt="image" src="https://github.com/user-attachments/assets/fbc45cbf-8cf2-47de-947f-58a2e7d476f2" />
 
 ## Result
 Thus,the Python program that checks whether a given number is a palindrome using loops is created successfully.
